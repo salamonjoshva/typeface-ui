@@ -1,0 +1,15 @@
+.leftSec {
+    align-items: center;
+    display: flex;
+    background-color: #fecaca;
+  }
+  
+  .title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-left: 10px;
+  }  
+  .icon {
+    margin: 10px;
+    width: 200px;
+  }
